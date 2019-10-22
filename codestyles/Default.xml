@@ -1,0 +1,18 @@
+<code_scheme name="Default" version="173">
+  <HTMLCodeStyleSettings>
+    <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+    <option name="HTML_ENFORCE_QUOTES" value="true" />
+  </HTMLCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+    <option name="CHAINED_CALL_DOT_ON_NEW_LINE" value="false" />
+  </JSCodeStyleSettings>
+  <XML>
+    <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+  </XML>
+  <codeStyleSettings language="JavaScript">
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+  </codeStyleSettings>
+</code_scheme>
