@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.action.js" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.ng</mask>
@@ -17,12 +18,12 @@
     <mask>*actions.test.js</mask>
     <mask>*.action.test.js</mask>
     <mask>*.spec.js</mask>
-    <mask>*.action.js</mask>
     <mask>*.actionTypes.js</mask>
     <mask>*.selector.js</mask>
     <mask>*.reducer.js</mask>
     <mask>*.js</mask>
     <mask>*.actions.js</mask>
     <mask>*.test.js</mask>
+    <mask>*.action.js</mask>
   </component>
 </application>
