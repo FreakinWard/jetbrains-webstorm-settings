@@ -17,7 +17,6 @@
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*actions.test.js</mask>
-    <mask>*.action.test.js</mask>
     <mask>*.spec.js</mask>
     <mask>*.actionTypes.js</mask>
     <mask>*.selector.js</mask>
@@ -26,5 +25,6 @@
     <mask>*.actions.js</mask>
     <mask>*.test.js</mask>
     <mask>*.action.js</mask>
+    <mask>*.action.test.js</mask>
   </component>
 </application>
