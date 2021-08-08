@@ -27,5 +27,8 @@
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="meta alt l" />
   </action>
+  <action id="ReactExtractComponentAction">
+    <keyboard-shortcut first-keystroke="ctrl meta alt c" />
+  </action>
   <action id="ReformatCode" />
 </keymap>
