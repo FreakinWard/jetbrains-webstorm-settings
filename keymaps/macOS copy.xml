@@ -31,4 +31,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta alt c" />
   </action>
   <action id="ReformatCode" />
+  <action id="RunConfigurationAsAction_Run_All Tests_default_target">
+    <keyboard-shortcut first-keystroke="ctrl meta alt t" />
+  </action>
 </keymap>
