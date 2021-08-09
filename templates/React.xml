@@ -2,4 +2,18 @@
   <template name="state" value="this.state.$END$" description="Access component's state" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
+  <template name="bnd" value="this.$1$ = this.$1$.bind(this);$END$" description="Binds the this of a method. To be used inside a constructor" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="react" value="import React from 'react'" description="imports react" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_TOP_LEVEL_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="prop" value="import * as PropTypes from 'prop-types'" description="imports propTypes" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_TOP_LEVEL_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
