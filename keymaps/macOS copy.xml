@@ -37,7 +37,4 @@
   <action id="RunConfigurationAsAction_Run_All Tests_default_target">
     <keyboard-shortcut first-keystroke="ctrl meta alt t" />
   </action>
-  <action id="ShowLiveRunConfigurations">
-    <keyboard-shortcut first-keystroke="ctrl meta alt q" />
-  </action>
 </keymap>
