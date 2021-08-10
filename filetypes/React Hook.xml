@@ -13,6 +13,6 @@
     <keywords4 />
   </highlighting>
   <extensionMap>
-    <mapping pattern="use*.js" />
+    <mapping pattern="disabled_use*.js" />
   </extensionMap>
 </filetype>

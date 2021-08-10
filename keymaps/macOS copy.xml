@@ -37,4 +37,7 @@
   <action id="RunConfigurationAsAction_Run_All Tests_default_target">
     <keyboard-shortcut first-keystroke="ctrl meta alt t" />
   </action>
+  <action id="RunConfigurationAsAction_Run_dev_default_target">
+    <keyboard-shortcut first-keystroke="ctrl meta alt r" />
+  </action>
 </keymap>
