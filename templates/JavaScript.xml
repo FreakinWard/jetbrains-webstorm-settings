@@ -17,7 +17,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="todo" value="// TODO: $END$" description="creates a new todo" toReformat="true" toShortenFQNames="true">
+  <template name="tdo" value="// TODO: $END$" description="creates a new todo" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
