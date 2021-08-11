@@ -1,11 +1,4 @@
 <templateSet group="React">
-  <template name="state" value="this.state.$END$" description="Access component's state" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context />
-  </template>
-  <template name="bnd" value="this.$1$ = this.$1$.bind(this);$END$" description="Binds the this of a method. To be used inside a constructor" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <variable name="1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <context />
-  </template>
   <template name="react" value="import React from 'react'" description="imports react" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JS_TOP_LEVEL_STATEMENT" value="true" />
@@ -15,5 +8,18 @@
     <context>
       <option name="JS_TOP_LEVEL_STATEMENT" value="true" />
     </context>
+  </template>
+  <template name="fcc" value="// @flow&#10;import * as React from 'react';&#10;type Props = {&#10; $END$&#10;};&#10;type State = {&#10; $1$&#10;};&#10;export class $TM_FILENAME_BASE$ extends React.Component&lt;Props, State&gt;{&#10; render() {&#10;  return (&#10;   &lt;div&gt;&#10;    &#10;   &lt;/div&gt;&#10;  );&#10; };&#10;};" description="Creates a React component class with FlowTypes" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="fsc" value="// @flow &#10;import * as React from 'react';&#10;type Props = {&#10; $END$&#10;};&#10;export const $TM_FILENAME_BASE$ = (props: Props) =&gt; {&#10; return (&#10;  &lt;div&gt;&#10;   &#10;  &lt;/div&gt;&#10; );&#10;};" description="Creates a stateless React component with FlowTypes and ES6 module system" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="fsf" value="// @flow&#10;import * as React from 'react';&#10;type Props = {&#10; $END$&#10;};&#10;export function $TM_FILENAME_BASE$(props: Props) {&#10; return (&#10;  &lt;div&gt;&#10;   &#10;  &lt;/div&gt;&#10; );&#10;};" description="Creates a stateless React component as a named function with FlowTypes" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>

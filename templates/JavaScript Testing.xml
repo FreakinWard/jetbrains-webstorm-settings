@@ -18,4 +18,11 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="jts" value="describe('$fileName$', () =&gt; {&#10;  it('should $behaviorDescription$', () =&gt; {&#10;    // arrange&#10;    // act&#10;    $END$&#10;    // assert&#10;  });&#10;});&#10;" description="new jest test suite" toReformat="false" toShortenFQNames="true">
+    <variable name="fileName" expression="regularExpression(fileNameWithoutExtension(), &quot;.test&quot;, &quot;&quot;)" defaultValue="" alwaysStopAt="false" />
+    <variable name="behaviorDescription" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_TOP_LEVEL_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>

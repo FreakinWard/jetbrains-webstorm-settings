@@ -122,6 +122,234 @@
           <option name="groupName" value="JavaScript Testing" />
           <option name="key" value="descr" />
         </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="bnd" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="con" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="conc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="cdc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="cdm" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="cdup" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="props" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="ssf" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="sst" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="state" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="cwm" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="cwr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="cwun" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="cwup" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="est" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="gdsfp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="gsbu" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="pta" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="ptao" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="ptaor" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="ptar" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="ptb" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="ptbr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="ptel" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="ptelr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="pte" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="pter" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="ptf" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="ptfr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="pti" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="ptir" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="ptnd" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="ptndr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="ptn" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="ptnr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="pto" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="ptoo" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="ptoor" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="ptoos" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="ptoosr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="ptor" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="ptet" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="ptetr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="ptsh" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="ptshr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="pts" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="ptsr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="rcc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="rccp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="rcfc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="rcjc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="rpc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="rrc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="rrdc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="rsc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="rwwd" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="scu" />
+        </TemplateKey>
       </list>
     </option>
   </component>
