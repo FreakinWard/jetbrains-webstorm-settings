@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../src/containers/Verification/components/Steps/StyleAndFeatures/components/FeatureSection/FeatureSection.jsx'" />
-    <option name="defaultScopeName" value="File '.../src/containers/Verification/components/Steps/StyleAndFeatures/components/FeatureSection/FeatureSection.jsx'" />
-    <option name="SEARCH_SCOPE" value="File '.../src/containers/Verification/components/Steps/StyleAndFeatures/components/FeatureSection/FeatureSection.jsx'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.ng</mask>
