@@ -1,4 +1,7 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="ActivateCommitToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
   <action id="ActivateDebugToolWindow">
     <keyboard-shortcut first-keystroke="meta 6" />
   </action>
@@ -19,7 +22,7 @@
     <keyboard-shortcut first-keystroke="meta 4" />
   </action>
   <action id="ActivateVersionControlToolWindow">
-    <keyboard-shortcut first-keystroke="meta 3" />
+    <keyboard-shortcut first-keystroke="meta 0" />
   </action>
   <action id="DuplicatesForm.SendToRight" />
   <action id="FileChooser.GotoModule" />
