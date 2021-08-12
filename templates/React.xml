@@ -30,4 +30,12 @@
       <option name="JS_TOP_LEVEL_STATEMENT" value="false" />
     </context>
   </template>
+  <template name="rcp" value="import React from 'react';&#10;import PropTypes from 'prop-types';&#10;&#10;export default function $TM_FILENAME_BASE$({$props$}) {&#10; return (&#10;  &lt;div&gt;&#10; $END$  &#10;  &lt;/div&gt;&#10; );&#10;};&#10;&#10;$TM_FILENAME_BASE$.propTypes = {&#10; $props$: PropTypes.$propType$&#10;};&#10;" description="Creates a stateless React component with PropTypes and ES6 module system" toReformat="true" toShortenFQNames="true">
+    <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="false" />
+    <variable name="props" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="propType" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_TOP_LEVEL_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
