@@ -38,4 +38,12 @@
       <option name="JS_TOP_LEVEL_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="rh" value="export default function $fileName$() {&#10;    const $methodName$ = ()=&gt; {&#10;        $END$    &#10;    }&#10;&#10;  return {&#10;    $methodName$,&#10;  };&#10;}&#10;" description="Creates a new React hook without http or params" toReformat="false" toShortenFQNames="true">
+    <variable name="fileName" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
+    <variable name="methodName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+      <option name="JS_TOP_LEVEL_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
