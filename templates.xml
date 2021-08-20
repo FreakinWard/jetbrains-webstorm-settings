@@ -344,6 +344,10 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="React" />
+          <option name="key" value="rscp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
           <option name="key" value="rwwd" />
         </TemplateKey>
         <TemplateKey>

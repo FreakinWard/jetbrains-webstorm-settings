@@ -25,4 +25,10 @@
       <option name="JS_TOP_LEVEL_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="itdo" value="it.todo('should $NAME$', () =&gt; {&#10;    // arrange&#10;    // act&#10;        &#10;    // assert&#10;}); &#10;&#10;$END$" description="Inserts it.todo() block" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
