@@ -1,5 +1,5 @@
 <templateSet group="Gherkin">
-  <template name="gt" value="Given $given$&#10;Then $then$&#10;  &#10; $END$" description="Creates a new Given Then statement" toReformat="false" toShortenFQNames="true">
+  <template name="gt" value="Given $given$&#10;Then $then$&#10;$END$" description="Creates a new Given Then statement" toReformat="false" toShortenFQNames="true">
     <variable name="given" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="then" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
