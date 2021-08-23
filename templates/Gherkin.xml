@@ -1,0 +1,29 @@
+<templateSet group="Gherkin">
+  <template name="gt" value="Given $given$&#10;Then $then$&#10;  &#10; $END$" description="Creates a new Given Then statement" toReformat="false" toShortenFQNames="true">
+    <variable name="given" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="then" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CUCUMBER_FEATURE_FILE" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="gwt" value="Given $given$&#10;When $when$&#10;Then $then$&#10;  &#10; $END$" description="Creates a new Given When Then statement" toReformat="false" toShortenFQNames="true">
+    <variable name="given" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="when" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="then" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CUCUMBER_FEATURE_FILE" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="gwts" value="Scenario: $scenario$&#10;  Given $given$&#10;  When $when$&#10;  Then $then$&#10;  &#10; $END$" description="Creates a new Given When Then Scenario statement" toReformat="false" toShortenFQNames="true">
+    <variable name="scenario" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="given" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="when" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="then" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CUCUMBER_FEATURE_FILE" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
