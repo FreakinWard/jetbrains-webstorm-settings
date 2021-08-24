@@ -31,4 +31,12 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="jso" value="jest.spyOn($functionToMock$, '$method$').mockImplementation($mock$)&#10;$END$" description="Inserts a jest.spyOn block" toReformat="true" toShortenFQNames="true">
+    <variable name="functionToMock" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="method" expression="" defaultValue="&quot;default&quot;" alwaysStopAt="true" />
+    <variable name="mock" expression="concat(functionToMock, &quot;Mock&quot;)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
