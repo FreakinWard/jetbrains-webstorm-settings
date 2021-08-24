@@ -26,5 +26,6 @@
     <mask>*.spec.js</mask>
     <mask>*.js</mask>
     <mask>*.test.js</mask>
+    <mask>use*.js</mask>
   </component>
 </application>
