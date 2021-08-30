@@ -40,4 +40,10 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="jhr" value="const { result } = renderHook(() =&gt; $fileName$(), {&#10;    wrapper,&#10;    initialProps: { reduxState },&#10;});" description="new act for react hook with redux wrapper" toReformat="false" toShortenFQNames="true">
+    <variable name="fileName" expression="regularExpression(fileNameWithoutExtension(), &quot;.test&quot;, &quot;&quot;)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
