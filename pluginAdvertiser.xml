@@ -127,6 +127,11 @@
                       <FeaturePluginData displayName="Mocha" pluginName="Node.js" pluginId="NodeJS" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="wallaby">
+                    <value>
+                      <FeaturePluginData displayName="Wallaby.js" pluginName="Wallaby" pluginId="wallaby.js" />
+                    </value>
+                  </entry>
                 </map>
               </option>
             </FeaturePluginsList>
