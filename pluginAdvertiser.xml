@@ -57,6 +57,11 @@
                       <FeaturePluginData displayName="JavaScript Debug" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="NimRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Nim Application" pluginName="Nim" pluginId="com.jetbrains.nim" />
+                    </value>
+                  </entry>
                   <entry key="NodeJSConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Node.js" pluginName="Node.js" pluginId="NodeJS" bundled="true" />
