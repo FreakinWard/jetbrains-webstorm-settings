@@ -57,11 +57,6 @@
                       <FeaturePluginData displayName="JavaScript Debug" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="NimRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Nim Application" pluginName="Nim" pluginId="com.jetbrains.nim" />
-                    </value>
-                  </entry>
                   <entry key="NodeJSConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Node.js" pluginName="Node.js" pluginId="NodeJS" bundled="true" />
@@ -149,17 +144,7 @@
         </entry>
         <entry key="com.intellij.facetType">
           <value>
-            <FeaturePluginsList>
-              <option name="featureMap">
-                <map>
-                  <entry key="NBMindMap">
-                    <value>
-                      <FeaturePluginData displayName="NB Mind Map" pluginName="IDEA Mind Map" pluginId="nb-mind-map-idea" />
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </FeaturePluginsList>
+            <FeaturePluginsList />
           </value>
         </entry>
       </map>
