@@ -18,7 +18,7 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="jts" value="describe('$fileName$', () =&gt; {&#10;  it('should $behaviorDescription$', () =&gt; {&#10;    // arrange&#10;    // act&#10;    $END$&#10;    // assert&#10;  });&#10;});&#10;" description="new jest test suite" toReformat="false" toShortenFQNames="true">
+  <template name="jd" value="describe('$fileName$', () =&gt; {&#10;  it('should $behaviorDescription$', () =&gt; {&#10;    // arrange&#10;    // act&#10;    $END$&#10;    // assert&#10;  });&#10;});&#10;" description="new jest test suite" toReformat="false" toShortenFQNames="true">
     <variable name="fileName" expression="regularExpression(fileNameWithoutExtension(), &quot;.test&quot;, &quot;&quot;)" defaultValue="" alwaysStopAt="false" />
     <variable name="behaviorDescription" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -31,12 +31,28 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="jso" value="jest.spyOn($functionToMock$, '$method$').mockImplementation($mock$)&#10;$END$" description="Inserts a jest.spyOn block" toReformat="true" toShortenFQNames="true">
+  <template name="jso" value="const $mock$ = () =&gt; ({&#10;  $hookMethod$: $methodReturn$,&#10;});&#10;jest&#10;  .spyOn($functionToMock$, '$method$')&#10;  .mockImplementation($mock$);&#10;$END$" description="Inserts a jest.spyOn block" toReformat="true" toShortenFQNames="true">
     <variable name="functionToMock" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="method" expression="" defaultValue="&quot;default&quot;" alwaysStopAt="true" />
     <variable name="mock" expression="concat(functionToMock, &quot;Mock&quot;)" defaultValue="" alwaysStopAt="false" />
+    <variable name="hookMethod" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="methodReturn" expression="&quot;jest.fn()&quot;" defaultValue="jest.fn()" alwaysStopAt="true" />
     <context>
       <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="jhr" value="const { result } = renderHook(() =&gt; $fileName$(), {&#10;    wrapper,&#10;    initialProps: { reduxState },&#10;});" description="new act for react hook with redux wrapper" toReformat="false" toShortenFQNames="true">
+    <variable name="fileName" expression="regularExpression(fileNameWithoutExtension(), &quot;.test&quot;, &quot;&quot;)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="jdh" value="&#10;describe('$fileName$', () =&gt; {&#10;  describe('$functionToTest$', () =&gt; {&#10;    it('should $behaviorDescription$', () =&gt; {&#10;      // arrange&#10;      // act&#10;      $END$&#10;      &#10;      // assert&#10;    });&#10;  });&#10;});" description="new jest describe for hooks" toReformat="false" toShortenFQNames="true">
+    <variable name="fileName" expression="regularExpression(fileNameWithoutExtension(), &quot;.test&quot;, &quot;&quot;)" defaultValue="" alwaysStopAt="false" />
+    <variable name="functionToTest" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="behaviorDescription" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_TOP_LEVEL_STATEMENT" value="true" />
     </context>
   </template>
 </templateSet>
