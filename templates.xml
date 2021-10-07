@@ -180,6 +180,10 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="React" />
+          <option name="key" value="rdp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
           <option name="key" value="est" />
         </TemplateKey>
         <TemplateKey>
@@ -312,6 +316,10 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="React" />
+          <option name="key" value="rpt" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
           <option name="key" value="rcc" />
         </TemplateKey>
         <TemplateKey>
@@ -341,6 +349,10 @@
         <TemplateKey>
           <option name="groupName" value="React" />
           <option name="key" value="rsc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="rsf" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="React" />
