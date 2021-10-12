@@ -45,7 +45,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="rc" value="import React from 'react';&#10;&#10;function $TM_FILENAME_BASE$() {&#10; return (&#10;  $1$&#10; );}&#10;&#10;export default $TM_FILENAME_BASE$;" description="Creates a stateless React component as a named function without PropTypes" toReformat="true" toShortenFQNames="true">
+  <template name="rc" value="import React from 'react';&#10;&#10;export default function $TM_FILENAME_BASE$() {&#10; return (&#10;  $1$&#10; );}&#10;" description="Creates a stateless React component as a named function without PropTypes" toReformat="true" toShortenFQNames="true">
     <variable name="1" expression="" defaultValue="&quot;&lt;div&gt;&lt;/div&gt;&quot;" alwaysStopAt="true" />
     <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
