@@ -149,7 +149,7 @@
       <option name="JS_EXPRESSION" value="true" />
     </context>
   </template>
-  <template name="rpt" value="$1$.propTypes = {&#10; $2$&#10;};" description="Creates empty propTypes declaration" toReformat="true" toShortenFQNames="true">
+  <template name="rpt" value="$1$.propTypes = {&#10; $2$ $END$&#10;};" description="Creates empty propTypes declaration" toReformat="true" toShortenFQNames="true">
     <variable name="1" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="false" />
     <variable name="2" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
