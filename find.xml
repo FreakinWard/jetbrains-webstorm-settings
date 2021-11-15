@@ -23,8 +23,8 @@
     <mask>*.action.test.js</mask>
     <mask>*.spec.js</mask>
     <mask>*.test.js</mask>
-    <mask>*.js</mask>
     <mask>use*.js</mask>
     <mask>*test.js</mask>
+    <mask>*.js</mask>
   </component>
 </application>
