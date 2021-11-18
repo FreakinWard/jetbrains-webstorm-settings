@@ -21,7 +21,7 @@
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="js.type.hints" />
+    <option name="lastViewedProviderKeyId" value="microservices.url.path.inlay.hints" />
     <settingsMapElement>
       <JavaScript.js.type.hints>
         <Settings>
