@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="login-callback.jsx" type="AUTO_DETECTED" />
       <mapping pattern="pre-commit" type="AUTO_DETECTED" />
       <mapping pattern=".husky/pre-commit" type="AUTO_DETECTED" />
       <mapping pattern=".all-contributersrc" type="PLAIN_TEXT" />
@@ -18,6 +19,7 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="use*.js" approved="true" type="React Hook" />
     </extensionMap>
   </component>

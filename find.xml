@@ -26,5 +26,6 @@
     <mask>use*.js</mask>
     <mask>*test.js</mask>
     <mask>*.js</mask>
+    <mask>*.*s</mask>
   </component>
 </application>

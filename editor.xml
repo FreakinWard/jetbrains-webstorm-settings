@@ -21,7 +21,12 @@
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="js.type.hints" />
+    <option name="disabledLanguages">
+      <set>
+        <option value="TypeScript" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
     <settingsMapElement>
       <JavaScript.js.type.hints>
         <Settings>
