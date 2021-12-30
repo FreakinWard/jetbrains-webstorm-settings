@@ -4,6 +4,7 @@
       <mapping pattern="pre-commit" type="AUTO_DETECTED" />
       <mapping pattern="login-callback.jsx" type="AUTO_DETECTED" />
       <mapping pattern=".husky/pre-commit" type="AUTO_DETECTED" />
+      <mapping pattern=".deployment" type="PLAIN_TEXT" />
       <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".all-contributersrc" type="PLAIN_TEXT" />
