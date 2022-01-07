@@ -30,6 +30,9 @@
   <action id="DuplicatesForm.SendToRight" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
+  <action id="Git.Squash.Commits">
+    <keyboard-shortcut first-keystroke="ctrl meta alt m" />
+  </action>
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="meta alt l" />
   </action>
