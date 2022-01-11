@@ -27,5 +27,6 @@
     <mask>*test.js</mask>
     <mask>*.js</mask>
     <mask>*.*s</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
