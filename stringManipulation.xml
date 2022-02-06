@@ -1,0 +1,13 @@
+<application>
+  <component name="StringManipulationState">
+    <option name="sortSettingsMap">
+      <map>
+        <entry key="SortAction">
+          <value>
+            <SortSettings />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
