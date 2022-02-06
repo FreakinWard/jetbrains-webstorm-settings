@@ -747,6 +747,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.outputinspector">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="wallaby.js" />
+              <option name="myPluginName" value="Wallaby" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.pam">
           <value>
             <plugin>
