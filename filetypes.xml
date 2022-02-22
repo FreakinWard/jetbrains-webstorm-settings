@@ -9,9 +9,11 @@
       <mapping pattern="*code-snippets" type="JSON5" />
       <mapping pattern=".hello" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
+      <mapping pattern=".gitconfig-carmax" type="PLAIN_TEXT" />
       <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".all-contributorsrc" type="PLAIN_TEXT" />
+      <mapping pattern=".gitconfig-freakinward" type="PLAIN_TEXT" />
       <mapping pattern="Option" type="PLAIN_TEXT" />
       <mapping pattern=".deployment" type="PLAIN_TEXT" />
       <mapping pattern=".all-contributersrc" type="PLAIN_TEXT" />
