@@ -2,23 +2,36 @@
   <component name="FeatureSuggesterSettings">
     <option name="workingDays">
       <list>
-        <option value="1650516347167" />
-        <option value="1650547797163" />
-        <option value="1650636060046" />
-        <option value="1650891724166" />
-        <option value="1650945608772" />
-        <option value="1651064560357" />
-        <option value="1651148511744" />
-        <option value="1651241911021" />
-        <option value="1651493803935" />
-        <option value="1651579632964" />
-        <option value="1651640693479" />
-        <option value="1651754669627" />
-        <option value="1651840778250" />
-        <option value="1651936342696" />
-        <option value="1652048110971" />
-        <option value="1652099676366" />
-        <option value="1652183950894" />
+        <option value="1652354975632" />
+        <option value="1652414400836" />
+        <option value="1652504177511" />
+        <option value="1652634487502" />
+        <option value="1652673604680" />
+        <option value="1652760111068" />
+        <option value="1652853175100" />
+        <option value="1652968429793" />
+        <option value="1653051975845" />
+        <option value="1653273589920" />
+        <option value="1653353011159" />
+        <option value="1653403582884" />
+        <option value="1653483571624" />
+        <option value="1653571555398" />
+        <option value="1654098049838" />
+        <option value="1654181057169" />
+        <option value="1654259635385" />
+        <option value="1654475366304" />
+        <option value="1654520941122" />
+        <option value="1654609079785" />
+        <option value="1654690180552" />
+        <option value="1654747360825" />
+        <option value="1654866828601" />
+        <option value="1654969232839" />
+        <option value="1655047769175" />
+        <option value="1655125720087" />
+        <option value="1655211048801" />
+        <option value="1655298099632" />
+        <option value="1655384471197" />
+        <option value="1655467471511" />
       </list>
     </option>
   </component>

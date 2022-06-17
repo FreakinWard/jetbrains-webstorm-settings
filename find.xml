@@ -29,5 +29,6 @@
     <mask>*.*s</mask>
     <mask>*.yml</mask>
     <mask>*.ts</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
