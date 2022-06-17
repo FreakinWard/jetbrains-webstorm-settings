@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Dependencies from package.json" displayType="NONE" shouldLog="false" />
     <notification groupId="Jest test runner" playSound="true" />
     <notification groupId="Vcs Important Messages" playSound="true" />
   </component>
