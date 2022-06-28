@@ -51,8 +51,13 @@
   <action id="RunConfigurationAsAction_Run_dev_default_target">
     <keyboard-shortcut first-keystroke="ctrl meta alt r" />
   </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="meta f2" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="UsageGrouping.FileStructure" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
