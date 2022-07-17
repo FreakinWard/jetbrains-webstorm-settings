@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="JavaScript/Introduce local variable" />
+    <ignoreAction name="Other/Put elements on multiple lines" />
   </component>
 </application>
