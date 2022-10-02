@@ -22,6 +22,7 @@
       <mapping pattern=".artifactignore" type="PLAIN_TEXT" />
       <mapping ext="streamdeckprofilesbackup" type="PLAIN_TEXT" />
       <mapping ext="sketch" type="PLAIN_TEXT" />
+      <mapping ext="bicep" type="PLAIN_TEXT" />
       <mapping ext="config" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
