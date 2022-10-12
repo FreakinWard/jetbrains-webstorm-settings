@@ -3,9 +3,6 @@
     <local-interpreter path="$USER_HOME$/.volta/bin/node">
       <version-cache last-modified="0" />
     </local-interpreter>
-    <local-interpreter path="/usr/local/bin/node">
-      <version-cache version="16.14.0" last-modified="1644323831000" />
-    </local-interpreter>
     <local-interpreter path="/usr/local/Cellar/node/18.4.0/bin/node">
       <version-cache last-modified="0" />
     </local-interpreter>
@@ -19,6 +16,9 @@
       <version-cache version="17.1.0" last-modified="1636465564000" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v16.14.0/bin/node">
+      <version-cache version="16.14.0" last-modified="1644323831000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
       <version-cache version="16.14.0" last-modified="1644323831000" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v16.13.0/bin/node">
