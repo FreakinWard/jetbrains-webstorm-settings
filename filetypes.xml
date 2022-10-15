@@ -2,24 +2,24 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="pre-commit" type="AUTO_DETECTED" />
-      <mapping pattern="test" type="AUTO_DETECTED" />
-      <mapping pattern="CODEOWNERS" type="AUTO_DETECTED" />
       <mapping pattern="login-callback.jsx" type="AUTO_DETECTED" />
       <mapping pattern=".husky/pre-commit" type="AUTO_DETECTED" />
+      <mapping pattern="test" type="AUTO_DETECTED" />
       <mapping pattern="seedAppConfig.js" type="AUTO_DETECTED" />
       <mapping pattern="commit-msg" type="AUTO_DETECTED" />
+      <mapping pattern="CODEOWNERS" type="AUTO_DETECTED" />
       <mapping pattern="*code-snippets" type="JSON5" />
+      <mapping pattern=".deployment" type="PLAIN_TEXT" />
       <mapping pattern=".hello" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitconfig-carmax" type="PLAIN_TEXT" />
       <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".all-contributersrc" type="PLAIN_TEXT" />
       <mapping pattern=".all-contributorsrc" type="PLAIN_TEXT" />
+      <mapping pattern=".artifactignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitconfig-freakinward" type="PLAIN_TEXT" />
       <mapping pattern="Option" type="PLAIN_TEXT" />
-      <mapping pattern=".deployment" type="PLAIN_TEXT" />
-      <mapping pattern=".all-contributersrc" type="PLAIN_TEXT" />
-      <mapping pattern=".artifactignore" type="PLAIN_TEXT" />
       <mapping ext="streamdeckprofilesbackup" type="PLAIN_TEXT" />
       <mapping ext="sketch" type="PLAIN_TEXT" />
       <mapping ext="bicep" type="PLAIN_TEXT" />
