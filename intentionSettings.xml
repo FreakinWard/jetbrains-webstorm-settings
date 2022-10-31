@@ -2,5 +2,6 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="JavaScript/Introduce local variable" />
     <ignoreAction name="Other/Put elements on multiple lines" />
+    <ignoreAction name="JavaScript/Other/Replace single-quoted string with double-quoted string" />
   </component>
 </application>
