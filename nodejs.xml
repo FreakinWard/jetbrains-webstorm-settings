@@ -10,7 +10,7 @@
       <version-cache last-modified="0" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v17.9.1/bin/node">
-      <version-cache last-modified="0" />
+      <version-cache version="17.9.1" last-modified="1654064424000" />
     </local-interpreter>
     <local-interpreter path="/usr/local/Cellar/node/17.3.0/bin/node">
       <version-cache last-modified="0" />
