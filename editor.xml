@@ -6,9 +6,39 @@
     <option name="selectAutopopupSuggestionsByChars" value="true" />
     <option name="SELECT_AUTOPOPUP_SUGGESTIONS_BY_CHARS" value="true" />
   </component>
+  <component name="CodeVisionSettings">
+    <option name="codeVisionGroupToPosition">
+      <map>
+        <entry key="inheritors" value="Default" />
+        <entry key="references" value="Default" />
+        <entry key="vcs.code.vision" value="Default" />
+      </map>
+    </option>
+  </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="AUTOREPARSE_DELAY" value="0" />
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
+  <component name="DeclarativeInlayHintsSettings">
+    <option name="disabledOptions">
+      <set>
+        <option value="js.type.hints#non.paren.single.param" />
+        <option value="js.type.hints#parameters.in.parens" />
+        <option value="ts.type.hints#function.returns" />
+        <option value="ts.type.hints#non.paren.single.param" />
+        <option value="ts.type.hints#parameters.in.parens" />
+        <option value="ts.type.hints#variables.and.fields" />
+      </set>
+    </option>
+    <option name="providerIdToEnabled">
+      <map>
+        <entry key="js.chain.hints" value="true" />
+        <entry key="js.type.hints" value="true" />
+        <entry key="ts.chain.hints" value="false" />
+        <entry key="ts.enum.hints" value="false" />
+        <entry key="ts.type.hints" value="false" />
+      </map>
+    </option>
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
@@ -26,7 +56,7 @@
         <option value="TypeScript" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="MarkdownTableInlayProviderSettingsKey" />
+    <option name="lastViewedProviderKeyId" value="JavaScript.js.type.hints.variables.and.fields" />
     <settingsMapElement>
       <JavaScript.js.type.hints>
         <Settings>
