@@ -29,7 +29,7 @@
     <mask>*.*s</mask>
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
-    <mask>*.yml</mask>
     <mask>*.bicep</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
