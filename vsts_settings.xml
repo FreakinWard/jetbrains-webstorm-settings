@@ -13,6 +13,14 @@
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="VSO" />
+          <option name="uri" value="https://dev.azure.com/flyfrontier" />
+          <option name="serverUri" value="https://dev.azure.com/flyfrontier" />
+          <option name="userId" value="1fb043c5-1d2c-6093-a57d-168aacd50187" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
           <option name="uri" value="https://flyfrontier@dev.azure.com/flyfrontier/FlyFrontier%20NCP/_git/ncp-cms-sanity" />
           <option name="serverUri" value="https://dev.azure.com/flyfrontier" />
           <option name="userId" value="1fb043c5-1d2c-6093-a57d-168aacd50187" />
@@ -26,7 +34,7 @@
       <array>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//flyfrontier@dev.azure.com/flyfrontier/flyfrontier ncp/_git/ncp-cms-sanity" />
+          <option name="value" value="//dev.azure.com/flyfrontier" />
         </PropertyState>
       </array>
     </option>
