@@ -18,6 +18,7 @@
       <mapping pattern=".all-contributersrc" type="PLAIN_TEXT" />
       <mapping pattern=".all-contributorsrc" type="PLAIN_TEXT" />
       <mapping pattern=".artifactignore" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitconfig-freakinward" type="PLAIN_TEXT" />
       <mapping pattern="Option" type="PLAIN_TEXT" />
       <mapping ext="streamdeckprofilesbackup" type="PLAIN_TEXT" />
