@@ -32,5 +32,6 @@
     <mask>*.bicep</mask>
     <mask>*.yml</mask>
     <mask>*.test.tsx</mask>
+    <mask>*.test*</mask>
   </component>
 </application>
