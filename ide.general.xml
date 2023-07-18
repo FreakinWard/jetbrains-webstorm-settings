@@ -8,5 +8,7 @@
   <component name="Registry">
     <entry key="js.debugger.webconsole" value="false" />
     <entry key="ide.images.show.chessboard" value="true" />
+    <entry key="ide.experimental.ui" value="true" />
+    <entry key="debugger.new.tool.window.layout" value="true" />
   </component>
 </application>
