@@ -898,7 +898,7 @@
         <option name="FOREGROUND" value="65737e" />
       </value>
     </option>
-    <option name="HAML_FILTER" baseAttributes="DEFAULT_LABEL" />
+    <option name="HAML_FILTER" baseAttributes="" />
     <option name="HAML_ID">
       <value>
         <option name="FOREGROUND" value="ec5f67" />
@@ -1243,7 +1243,7 @@
         <option name="FOREGROUND" value="c594c5" />
       </value>
     </option>
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
     <option name="JSP_SCRIPTING_BACKGROUND">
       <value>
         <option name="FOREGROUND" value="5fb3b3" />
