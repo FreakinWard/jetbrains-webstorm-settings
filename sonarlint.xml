@@ -1,7 +1,14 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <rules>
-      <Rule active="false" key="typescript:S3317" />
-    </rules>
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://pci-dev-cus-app-sonarqube.azurewebsites.net" />
+          <token>dfd9dfdbdfcbdff5df92df9edf9bdf93df93dfc9df9bdf9ddfc9dfcbdfc8dfcbdf9edf9adf99dfc9df98df98df93dfcbdf92df9edf98dfcfdfcedf9fdf93df92df9fdfcedf9bdf99df9ddf9cdf9bdfccdfcfdf9bdf9edf9f</token>
+          <option name="name" value="Sonarqube" />
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
   </component>
 </application>
