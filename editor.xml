@@ -14,7 +14,6 @@
         <entry key="vcs.code.vision" value="Default" />
       </map>
     </option>
-    <option name="enabled" value="false" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="AUTOREPARSE_DELAY" value="0" />
@@ -35,6 +34,7 @@
       <map>
         <entry key="js.chain.hints" value="true" />
         <entry key="js.type.hints" value="true" />
+        <entry key="qodana.yaml.inspection.descriptions" value="true" />
         <entry key="ts.chain.hints" value="false" />
         <entry key="ts.enum.hints" value="false" />
         <entry key="ts.type.hints" value="false" />
