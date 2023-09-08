@@ -3,8 +3,8 @@
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <option name="hostUrl" value="https://pci-dev-cus-app-sonarqube.azurewebsites.net" />
-          <token>dfd9dfdbdfcbdff5df92df9edf9bdf93df93dfc9df9bdf9ddfc9dfcbdfc8dfcbdf9edf9adf99dfc9df98df98df93dfcbdf92df9edf98dfcfdfcedf9fdf93df92df9fdfcedf9bdf99df9ddf9cdf9bdfccdfcfdf9bdf9edf9f</token>
+          <option name="hostUrl" value="https://pci-dev-cus-app-sonarqube.azurewebsites.net/" />
+          <token>dfd9dfdbdfdfdff5df9ddf9fdf9fdfc9df9fdf93df9ddfccdfccdf9ddf9cdf93df93df99df9fdf92df99dfcedfcedf9adfcbdf99dfcbdf9cdfcbdf92df9adf9bdfc8dfcedf9edfc9df9cdfc9df9adfccdfc9dfccdfc9df9a</token>
           <option name="name" value="Sonarqube" />
         </SonarQubeServer>
       </list>
