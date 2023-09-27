@@ -17,6 +17,7 @@
     <option name="widgets">
       <map>
         <entry key="FlowJSInfo" value="false" />
+        <entry key="Memory" value="true" />
         <entry key="WakaTime" value="false" />
         <entry key="git" value="true" />
       </map>
