@@ -74,4 +74,11 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="itea" value="const theories = [$1$];&#10;&#10;it.each(theories)('should $NAME$', async theory =&gt; {&#10;    // arrange&#10;    // act&#10;    $END$    &#10;    // assert&#10;});" description="Inserts it.each()() block" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
