@@ -395,7 +395,7 @@
         <option name="FOREGROUND" value="bb80b3" />
       </value>
     </option>
-    <option name="CSS.IMPORTANT" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="CSS.IMPORTANT" baseAttributes="" />
     <option name="CSS.OPERATORS">
       <value>
         <option name="FOREGROUND" value="5fb3b3" />
