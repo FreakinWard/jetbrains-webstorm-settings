@@ -64,8 +64,8 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="BASH.HERE_DOC_END" baseAttributes="" />
+    <option name="BASH.HERE_DOC_START" baseAttributes="" />
     <option name="BASH.INTERNAL_COMMAND">
       <value>
         <option name="FOREGROUND" value="6699cc" />
@@ -77,7 +77,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
+    <option name="BASH.SHEBANG" baseAttributes="" />
     <option name="BASH.VAR_USE_BUILTIN">
       <value>
         <option name="FOREGROUND" value="f99157" />
@@ -395,7 +395,7 @@
         <option name="FOREGROUND" value="bb80b3" />
       </value>
     </option>
-    <option name="CSS.IMPORTANT" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="CSS.IMPORTANT" baseAttributes="" />
     <option name="CSS.OPERATORS">
       <value>
         <option name="FOREGROUND" value="5fb3b3" />
@@ -1045,13 +1045,13 @@
         <option name="FOREGROUND" value="cdd3de" />
       </value>
     </option>
-    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
+    <option name="JADE_FILTER_NAME" baseAttributes="" />
     <option name="JADE_JS_BLOCK">
       <value>
         <option name="FOREGROUND" value="99c794" />
       </value>
     </option>
-    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JADE_STATEMENTS" baseAttributes="" />
     <option name="JADE_TAG_CLASS">
       <value>
         <option name="FOREGROUND" value="f99157" />
@@ -1772,8 +1772,8 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="REGEXP.META" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
+    <option name="REGEXP.META" baseAttributes="" />
+    <option name="REGEXP.PARENTHS" baseAttributes="" />
     <option name="REGEXP.QUOTE_CHARACTER">
       <value>
         <option name="FOREGROUND" value="5fb3b3" />
