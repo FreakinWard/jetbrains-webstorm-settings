@@ -1,13 +1,7 @@
 <application>
   <component name="NodeJsLocalInterpreterManager">
     <local-interpreter path="/usr/local/bin/node">
-      <version-cache version="20.3.0" last-modified="1687277595523" />
-    </local-interpreter>
-    <local-interpreter path="/usr/local/Cellar/node/19.8.1/bin/node">
-      <version-cache last-modified="0" />
-    </local-interpreter>
-    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v19.7.0/bin/node">
-      <version-cache last-modified="0" />
+      <version-cache version="21.2.0" last-modified="1700839065785" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v18.15.0/bin/node">
       <version-cache version="18.15.0" last-modified="1677993762000" />
@@ -18,9 +12,11 @@
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v16.13.2/bin/node">
       <version-cache version="16.13.2" last-modified="1641853760000" />
     </local-interpreter>
-    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v12.22.12/bin/node">
-      <version-cache version="12.22.12" last-modified="1649145075000" />
-    </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v14.21.2/bin/node" excluded="true" />
+    <local-interpreter path="/usr/local/Cellar/node/21.2.0/bin/node" excluded="true" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v12.22.12/bin/node" excluded="true" />
+  </component>
+  <component name="NodeJsRemoteInterpreters">
+    <interpreter node-remote-interpreter="docker://ncp-web_development:latest/node" INTERPRETER_PATH="node" HELPERS_PATH=".webstorm_nodejs_helpers" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VERSION="" OUTDATED_ID="" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="ncp-web_development:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" />
   </component>
 </application>
