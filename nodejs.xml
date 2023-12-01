@@ -18,5 +18,11 @@
   </component>
   <component name="NodeJsRemoteInterpreters">
     <interpreter node-remote-interpreter="docker://ncp-web_development:latest/node" INTERPRETER_PATH="node" HELPERS_PATH=".webstorm_nodejs_helpers" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VERSION="" OUTDATED_ID="" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="ncp-web_development:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" />
+    <interpreter node-remote-interpreter="docker-compose://[/Users/aaronward/dev/frontier/ncp-web-state-management/ncp-web/docker-compose.dev.yml]:development/node" INTERPRETER_PATH="node" HELPERS_PATH=".webstorm_nodejs_helpers" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VERSION="" OUTDATED_ID="" DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="development" DOCKER_REMOTE_PROJECT_PATH="/opt/project">
+      <dockerComposeConfigurationPaths>
+        <item value="$USER_HOME$/dev/frontier/ncp-web-state-management/ncp-web/docker-compose.dev.yml" />
+      </dockerComposeConfigurationPaths>
+      <envs />
+    </interpreter>
   </component>
 </application>
